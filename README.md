@@ -1,7 +1,7 @@
 [![MasterHead](https://tinyurl.com/3ck25449)](https://github.com/anupam6335)
 <h1 align="center">Hi 🙋‍♂️, I'm Anupam Debnath</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
-<img align="left" alt="Coding" width="400" height='400' src="https://i.ibb.co/LhwN67p/boy.png">
+<img align="left" alt="Coding" width="400" height='400' src="https://i.ibb.co/WcDbsjD/boy2.jpg">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anupam6335&label=Profile%20views&color=0e75b6&style=flat" alt="anupam6335" /> </p>
 
