@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/65649115/211167451-6890e589-b130-4c01-9831-c9691fba08be.gif)](https://github.com/anupam6335)
+[![MasterHead](https://user-images.githubusercontent.com/65649115/219759150-cc75022c-0325-4eb1-91ca-fd55e2349458.gif)](https://github.com/anupam6335)
 <h1 align="center">Hi 🙋‍♂️, I'm Anupam Debnath</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="left" alt="Coding" width="400" height='400' src="https://i.ibb.co/WcDbsjD/boy2.jpg">
