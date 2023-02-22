@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Web Development, C++ code**
 
-- 📫 How to reach me **anupamdebnath6335@gmail.com**
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
