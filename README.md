@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/65649115/219759150-cc75022c-0325-4eb1-91ca-fd55e2349458.gif)](https://github.com/anupam6335)
 <h1 align="center">Hi 🙋‍♂️, I'm Anupam Debnath</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
-<img align="left" alt="Coding" width="400" height='400' src="https://i.ibb.co/WcDbsjD/boy2.jpg">
+<img align="left" alt="Coding" width="400" height='400' src="https://github-production-user-asset-6210df.s3.amazonaws.com/65649115/237699618-7896dd3d-7219-4a74-90d6-343ec8ccb994.png">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anupam6335&label=Profile%20views&color=0e75b6&style=flat" alt="anupam6335" /> </p>
 
