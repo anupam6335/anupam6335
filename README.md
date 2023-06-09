@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Web Development, C++ code**
+- 💬 Ask me about **Web Development, coding related questions**
 
 - ⚡ Fun fact **I think I am funny**
 
