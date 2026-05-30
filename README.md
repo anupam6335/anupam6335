@@ -1,6 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/65649115/219759150-cc75022c-0325-4eb1-91ca-fd55e2349458.gif)](https://github.com/anupam6335)
+[![MasterHead](https://github.com/user-attachments/assets/b8035f7c-274b-4482-b852-bc7a05c2f324)](https://github.com/anupam6335/DevRhythm)
 <h1 align="center">Hi 🙋‍♂️, I'm Anupam Debnath</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
+![Uploading image.png…]()
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anupam6335&label=Profile%20views&color=0e75b6&style=flat" alt="anupam6335" /> </p>
 
